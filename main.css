@@ -1,0 +1,43 @@
+#logo{
+    font-family: 'Smooch', cursive;
+}
+.carousel-item img{
+   
+    height: 80vh;
+}
+.container-fluid{
+    position: absolute;
+    padding-left: 0%;
+    padding-right: 0%;
+  
+}
+.textonimg{
+    position: absolute;
+    top: 40%;
+    color:rgb(255, 255, 255);
+    padding-left: 15%;
+
+    
+}
+.textonimg1{
+    position: absolute;
+    top: 60%;
+    color:rgb(255, 255, 255);
+    padding-left: 15%;
+    
+}
+
+iframe{
+    
+    height: 500px;
+}
+.bcolor{
+    background-color: orange;
+}
+.pcolor{
+
+    background-color: rgb(153, 51, 107);
+}
+.scolor{
+    background-color: greenyellow;
+}
